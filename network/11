@@ -1,0 +1,4 @@
+A LANCER 1 = local ip
+ 2 = NAT IP
+ 3 = Public IP
+ traceroute slash16.org 
