@@ -1,0 +1,1 @@
+Pour changer l'addressage d'un nom de domaine vers une IP precise, il suffit de modifier la table des hotes à /etc/hosts
